@@ -1,0 +1,17 @@
+{
+  "name": "typescript-talk-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node allTyped/index.ts",
+    "problem": "node bugRidden/example.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^8.0.24",
+    "ts-node": "^3.3.0",
+    "typescript": "^2.4.2"
+  }
+}
