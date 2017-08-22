@@ -1,4 +1,4 @@
-import {Address, User} from './getUser'
+import {Address, User} from './usingClasses/getUser'
 
 interface PhoneNumber {
   phone: string
